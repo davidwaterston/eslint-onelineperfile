@@ -1,7 +1,8 @@
 ## [ESLint](http://eslint.org) custom formatter (reporter) that displays one summary line for each file processed.
 
-<a href="http://semver.org" target="_blank" alt="Semantic Versioning"><img src="https://img.shields.io/badge/semver-1.0.0-lightgrey.svg?style=flat-square"></a>
+<a href="http://semver.org" target="_blank" alt="Semantic Versioning"><img src="https://img.shields.io/badge/semver-1.0.1-lightgrey.svg?style=flat-square"></a>
 <a href="https://github.com/davidwaterston/eslint-onelineperfile/blob/master/LICENSE" target="_blank" alt="MIT License"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square"></a>
+<a href="https://david-dm.org/davidwaterston/eslint-onelineperfile" target="_blank" alt="Dependencies"><img src="https://david-dm.org/davidwaterston/eslint-onelineperfile.svg"></a>
 <a href="#verifying-releases" alt="Releases signed with Gnu Privacy Guard"><img src="https://img.shields.io/badge/gpg-signed-green.svg?style=flat-square"></a>
 <a href="https://gitter.im/davidwaterston/eslint-onelineperfile" target="_blank" alt="Join the chat at https://gitter.im/davidwaterston/eslint-onelineperfile"><img src="https://badges.gitter.im/Join%20Chat.svg"></a>
   
